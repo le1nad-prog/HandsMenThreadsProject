@@ -1,4 +1,4 @@
-# 🚀 HandsMen Threads – Salesforce Data Management & Automation Project
+# 🚀 HandsMen Threads – Elevating the Art of Sophistication in Men's Fashion
 
 ##
 HandsMen Threads, a dynamic leader in the fashion industry, is implementing a Salesforce project aimed at transforming data management and optimizing customer relationships. The initiative focuses on building a robust, scalable data model to manage essential business information and ensure seamless data flow across departments.
